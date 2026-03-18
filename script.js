@@ -1,4 +1,4 @@
-const API_URL = "https://script.google.com/macros/s/AKfycbzEas4N0XsbRZtTzqBv2j5Ochm9HvfQdh9LL-pS0ljmguXvI1hvt-K3wFKWBT5GUdKQUw/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbzzroAhBKWKH4-XGZIWyhOacDjh8lBTkGufEJgBFwn1wSh_RgcDELvR1Du6Oe3Icm5Yuw/exec";
 
 async function submitForm() {
   const file = document.getElementById("photo").files[0];
